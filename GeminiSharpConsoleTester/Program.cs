@@ -9,7 +9,7 @@ using System.Text;
 
 public class Program
 {
-    static string apiKey = "AIzaSyBi5FyPkpQMeHPxR_RmbDz7O6OtfV_iPOY";
+    static string apiKey = "Enter Key Here";
 
     public static async Task Main(string[] args)
     {
